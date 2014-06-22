@@ -18,7 +18,7 @@ To calculate your BMI, divide your weight by your height  squared.
 
 ## How to use Body Mass Index (BMI) calculator
 
-Link of Application on github shiny server : http://yogidhiman.shinyapps.io/my_shiny_app
+Link of Application on github shiny server : https://earteta.shinyapps.io/DDPProject/
 1. Enter the value of the height (in meters)
 2. Enter the value of the weight (in kilograms)
 3. Press "Compute BMI" and your BMI will be calculated and displayed. Also the BMI category you belong to will be shown.
